@@ -9,7 +9,7 @@ export default function Home() {
           EasyGrid
         </h1>
         <p className="italic text-xs">Made learning CSS Grid easier!</p>
-        <p className="my-4 text-center text-sm pt-5">
+        <p className="my-4 text-center text-sm pt-5 text-grey ">
           Welcome to EasyGrid!
           <br />
           EasyGrid is a free course designed to help you learn and master CSS
